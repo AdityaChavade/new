@@ -1,0 +1,12 @@
+git remote add origin <file link> : To add a repository to vs code 
+git status : Gives status of the repository
+git add < link> : Stages the file 
+git add. : Stages all of the file 
+git rem <file> : remove the file form repository
+git commit -m " txt" : Commits the changes
+
+Working with branches
+
+git checkout <navigate> : To navigate
+git checkout -b < new branche name> : to create a new branch
+git branch -d <new branch name > : To delete the branch

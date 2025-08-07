@@ -5,8 +5,7 @@ git add. : Stages all of the file
 git rem <file> : remove the file form repository
 git commit -m " txt" : Commits the changes
 
-Working with branches
+Creating a new brach and working with it 
 
-git checkout <navigate> : To navigate
-git checkout -b < new branche name> : to create a new branch
-git branch -d <new branch name > : To delete the branch
+git checkout -b "branch" : to create a new branch and directly jump into it"
+
